@@ -62,7 +62,7 @@
             defaultStep: 5, // real value is 'step', and should be passed as such.  This value is used to detect if passed value should override HTML5 attribute
             largeStep: 5,
             mouseWheelStep: 1,  // step for mousewheel control - it could be different than buttons
-            timeFormat: true, // if true, then parse the value as 24hour time
+            timeFormat: true,   // if true, then parse the value as 24hour time
             mouseWheel: true,
             increment: 'slow',
             className: null,
